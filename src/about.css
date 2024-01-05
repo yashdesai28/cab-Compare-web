@@ -1,0 +1,23 @@
+.about{
+    height: 30rem;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.main-ab-text{
+    font-size: 2.7rem;
+    font-weight: bolder;
+    
+    color: rgb(197, 132, 47);
+
+}
+
+.sec-main-text{
+    font-size: 1.4rem;
+   color: rgb(41, 34, 25);
+}
